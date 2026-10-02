@@ -1,5 +1,8 @@
 # IoT-Based Smart Dual-Axis Solar Tracking and Energy Monitoring System
 
+<img width="1510" height="856" alt="image" src="https://github.com/user-attachments/assets/bc91ce9d-4a64-4e98-8fcf-2d3c2af7e901" />
+
+
 A low-cost ESP32-based solar tracker that uses four LDR sensors to detect the stronger light direction, two servo motors to move the panel on two axes, and an IoT dashboard to monitor sensor and energy-related data.
 
 This repository contains the **Phase 1 IoT prototype**. The machine-learning prediction layer is intentionally kept for a later phase.
