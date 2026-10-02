@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+*.bin
+*.elf
+
+# Local/private credentials
+.env
+secrets.h
