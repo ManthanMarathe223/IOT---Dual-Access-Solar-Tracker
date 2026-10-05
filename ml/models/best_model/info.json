@@ -1,0 +1,1 @@
+{"best_model_name": "Random Forest Regressor", "R2": 0.844817426471407, "features": ["AMBIENT_TEMPERATURE", "MODULE_TEMPERATURE", "IRRADIATION", "TIME_SIN", "TIME_COS", "IS_DAY"], "target": "AC_POWER"}
